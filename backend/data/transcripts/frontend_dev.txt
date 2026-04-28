@@ -1,0 +1,118 @@
+Candidate Name: Arjun Sharma
+Role: Frontend Developer
+Date: 2024-05-23
+
+
+
+
+
+
+Role: Frontend Developer (React)
+
+Interviewer: Introduce yourself.
+
+Candidate: Hi, I’m Arjun. I’m a frontend developer with experience in React, JavaScript, HTML, and CSS. I’ve built responsive web applications and worked with REST APIs.
+
+Interviewer: What is React?
+
+Candidate: React is a JavaScript library for building user interfaces using components.
+
+Interviewer: What are components?
+
+Candidate: Components are reusable pieces of UI.
+
+Interviewer: Difference between functional and class components?
+
+Candidate: Functional components use hooks, while class components use lifecycle methods.
+
+Interviewer: What are hooks?
+
+Candidate: Hooks allow us to use state and lifecycle features in functional components.
+
+Interviewer: Explain useState.
+
+Candidate: useState is used to manage state in functional components.
+
+Interviewer: Explain useEffect.
+
+Candidate: useEffect handles side effects like API calls.
+
+Interviewer: What is virtual DOM?
+
+Candidate: It is a lightweight representation of the real DOM used for efficient updates.
+
+Interviewer: What is JSX?
+
+Candidate: JSX is a syntax that allows writing HTML in JavaScript.
+
+Interviewer: How do you handle API calls?
+
+Candidate: Using fetch or axios inside useEffect.
+
+Interviewer: What is responsive design?
+
+Candidate: Designing UI that adapts to different screen sizes.
+
+Interviewer: What is CSS Flexbox?
+
+Candidate: A layout model for arranging elements in rows or columns.
+
+Interviewer: What is Grid?
+
+Candidate: A 2D layout system for designing complex layouts.
+
+Interviewer: What is state management?
+
+Candidate: Managing data across components.
+
+Interviewer: Have you used Redux?
+
+Candidate: Yes, for global state management.
+
+Interviewer: What is prop drilling?
+
+Candidate: Passing props through multiple components unnecessarily.
+
+Interviewer: How do you avoid it?
+
+Candidate: Using context API or Redux.
+
+Interviewer: What is performance optimization?
+
+Candidate: Improving app speed using techniques like memoization.
+
+Interviewer: What is lazy loading?
+
+Candidate: Loading components only when needed.
+
+Interviewer: Tell me about a project.
+
+Candidate: I built an e-commerce website with React, including cart functionality and API integration.
+
+Interviewer: What challenges did you face?
+
+Candidate: Managing state across components and optimizing performance.
+
+Interviewer: What is version control?
+
+Candidate: Using Git to track changes.
+
+Interviewer: Do you know about testing?
+
+Candidate: Basic knowledge of Jest.
+
+Interviewer: Any questions?
+
+Candidate: What frontend stack do you use?
+
+Interviewer: React with TypeScript.
+
+Candidate: Great, I’m interested in learning TypeScript.
+
+---
+
+Observations:
+- Strong React fundamentals
+- Good UI and API integration knowledge
+- Limited experience with testing and advanced optimization
+- Needs deeper knowledge of TypeScript and large-scale apps

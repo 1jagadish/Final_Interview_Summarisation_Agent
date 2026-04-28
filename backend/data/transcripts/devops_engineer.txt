@@ -1,0 +1,22 @@
+Candidate Name: Sneha Gupta
+Role: DevOps Engineer
+Date: 2024-05-20
+
+Transcript:
+Interviewer: What is DevOps?
+Candidate: It integrates development and operations for faster delivery...
+
+Interviewer: What is CI/CD?
+Candidate: Continuous Integration and Deployment pipelines...
+
+Interviewer: What tools have you used?
+Candidate: Docker, Kubernetes, Jenkins, AWS...
+
+Interviewer: What is containerization?
+Candidate: Packaging application with dependencies...
+
+Interviewer: Project?
+Candidate: Automated deployment pipeline using Jenkins and Docker...
+
+Interviewer: Challenges?
+Candidate: Debugging deployment failures...

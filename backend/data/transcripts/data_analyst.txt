@@ -1,0 +1,100 @@
+Candidate Name: Arjun Sharma
+Role: Data Analyst
+Date: 2024-05-22
+
+
+
+
+Role: Data Analyst
+
+Interviewer: Good morning. Please introduce yourself.
+
+Candidate: Good morning. My name is Ananya. I recently graduated in Statistics and have hands-on experience in data analysis using Python, SQL, and Power BI. I’ve worked on projects involving data cleaning, visualization, and predictive analysis.
+
+Interviewer: What tools do you commonly use?
+
+Candidate: I use Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. For databases, I use SQL. For dashboards, I use Power BI and sometimes Tableau.
+
+Interviewer: What is data cleaning?
+
+Candidate: Data cleaning is the process of handling missing values, removing duplicates, correcting inconsistencies, and preparing raw data for analysis.
+
+Interviewer: How do you handle missing data?
+
+Candidate: Depending on the situation, I either remove rows, fill with mean/median/mode, or use interpolation techniques.
+
+Interviewer: What is the difference between mean and median?
+
+Candidate: Mean is the average of all values, while median is the middle value. Median is more robust to outliers.
+
+Interviewer: What are outliers?
+
+Candidate: Outliers are extreme values that differ significantly from other data points.
+
+Interviewer: How do you detect outliers?
+
+Candidate: Using box plots, Z-score, or IQR methods.
+
+Interviewer: Explain SQL joins.
+
+Candidate: SQL joins combine data from multiple tables. Types include INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN.
+
+Interviewer: Difference between WHERE and HAVING?
+
+Candidate: WHERE filters rows before aggregation, while HAVING filters after aggregation.
+
+Interviewer: What is normalization in databases?
+
+Candidate: It organizes data to reduce redundancy and improve consistency.
+
+Interviewer: What is a dashboard?
+
+Candidate: A dashboard visually represents key metrics and insights using charts and graphs.
+
+Interviewer: Tell me about a project.
+
+Candidate: I worked on a sales analysis project where I cleaned data, performed exploratory analysis, and built a Power BI dashboard showing trends and KPIs.
+
+Interviewer: What is EDA?
+
+Candidate: Exploratory Data Analysis involves understanding data patterns using visualizations and statistics.
+
+Interviewer: What is correlation?
+
+Candidate: Correlation measures the relationship between two variables.
+
+Interviewer: Difference between correlation and causation?
+
+Candidate: Correlation does not imply causation. Just because two variables move together doesn’t mean one causes the other.
+
+Interviewer: Have you used machine learning?
+
+Candidate: Yes, I used linear regression for prediction tasks.
+
+Interviewer: What is regression?
+
+Candidate: Regression models relationships between dependent and independent variables.
+
+Interviewer: What challenges did you face?
+
+Candidate: Handling missing data and inconsistent formats was challenging.
+
+Interviewer: How do you present insights?
+
+Candidate: I use clear visualizations and explain findings in simple terms.
+
+Interviewer: Do you have any questions?
+
+Candidate: Yes, what tools does your team use?
+
+Interviewer: Mostly SQL, Python, and Power BI.
+
+Candidate: That aligns with my skills. Thank you.
+
+---
+
+Observations:
+- Strong in data analysis fundamentals
+- Good SQL and visualization skills
+- Basic ML understanding
+- Needs deeper statistical modeling experience

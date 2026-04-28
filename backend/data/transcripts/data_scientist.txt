@@ -1,0 +1,19 @@
+Candidate Name: Karthik Reddy
+Role: Data Scientist
+Date: 2024-05-20
+
+Transcript:
+Interviewer: What is machine learning?
+Candidate: It enables systems to learn patterns from data...
+
+Interviewer: Difference between supervised and unsupervised learning?
+Candidate: Supervised uses labeled data, unsupervised finds patterns...
+
+Interviewer: What is overfitting?
+Candidate: Model performs well on training but poorly on unseen data...
+
+Interviewer: Project?
+Candidate: Built a churn prediction model using logistic regression...
+
+Interviewer: Challenges?
+Candidate: Feature selection and model tuning...

@@ -1,0 +1,19 @@
+Candidate Name: Neha Kapoor
+Role: iOS Developer
+Date: 2024-05-20
+
+Transcript:
+Interviewer: What is Swift?
+Candidate: Programming language for iOS apps...
+
+Interviewer: What is MVC?
+Candidate: Model View Controller pattern...
+
+Interviewer: What is AutoLayout?
+Candidate: Designing UI constraints...
+
+Interviewer: Project?
+Candidate: Built a fitness tracking app...
+
+Interviewer: Challenges?
+Candidate: UI responsiveness...

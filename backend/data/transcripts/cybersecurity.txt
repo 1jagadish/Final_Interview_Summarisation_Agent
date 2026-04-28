@@ -1,0 +1,69 @@
+Candidate Name: Rohan Malhotra
+Role: Cybersecurity Analyst
+Date: 2024-05-21
+
+Transcript:
+Interviewer: Good morning, Rohan. Can you introduce yourself?
+
+Candidate: Good morning. I have completed my degree in Computer Science. I am interested in cybersecurity and have basic knowledge about it. I have watched some online courses and read blogs about hacking and security.
+
+Interviewer: Can you explain what cybersecurity is?
+
+Candidate: Cybersecurity is about protecting computers from hackers and viruses.
+
+Interviewer: Can you explain the difference between encryption and hashing?
+
+Candidate: Encryption is like converting data into secret form. Hashing is also similar, I think both are used for security but I am not very sure about the difference.
+
+Interviewer: What is SQL Injection?
+
+Candidate: SQL Injection is when someone hacks the database. I have heard about it but I have not implemented it practically.
+
+Interviewer: How would you prevent SQL Injection?
+
+Candidate: Maybe by using passwords or something like validation, I am not fully sure.
+
+Interviewer: What is a firewall?
+
+Candidate: Firewall blocks unwanted traffic. It is used to protect systems.
+
+Interviewer: What is penetration testing?
+
+Candidate: It is testing security, but I have not done it myself.
+
+Interviewer: Have you worked with any security tools?
+
+Candidate: No, I have not used tools like Wireshark or Metasploit yet.
+
+Interviewer: What is phishing?
+
+Candidate: Phishing is when someone sends fake emails to steal information.
+
+Interviewer: How do you detect phishing attacks?
+
+Candidate: I think by checking email content, but I don’t know exact methods.
+
+Interviewer: Can you explain the CIA triad?
+
+Candidate: I have heard about it, but I don’t remember exactly.
+
+Interviewer: Have you done any cybersecurity projects?
+
+Candidate: No, I have not done any major projects yet.
+
+Interviewer: What would you do if a system is compromised?
+
+Candidate: I would restart the system and maybe change passwords.
+
+Interviewer: That’s all from our side. Do you have any questions?
+
+Candidate: No, thank you.
+
+---
+
+Observations:
+- Candidate has only basic theoretical understanding
+- Lacks practical exposure to cybersecurity tools
+- Unable to explain core concepts clearly
+- No project or hands-on experience
+- Weak problem-solving and incident response knowledge

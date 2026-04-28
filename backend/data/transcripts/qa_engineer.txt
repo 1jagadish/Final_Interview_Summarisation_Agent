@@ -1,0 +1,85 @@
+Candidate Name: Kavya Menon
+Role: QA Engineer
+Date: 2024-05-21
+
+Transcript:
+Interviewer: Good morning, Kavya. Can you introduce yourself?
+
+Candidate: Good morning. I am a QA engineer with around 1 year of internship experience. I have worked on manual testing and have some exposure to automation testing using Selenium with Python.
+
+Interviewer: What is software testing?
+
+Candidate: Software testing is the process of verifying and validating that an application works as expected and is free of defects.
+
+Interviewer: What are different types of testing?
+
+Candidate: There are several types like unit testing, integration testing, system testing, and regression testing. I have mostly worked on system and regression testing.
+
+Interviewer: What is the difference between manual and automation testing?
+
+Candidate: Manual testing is done by humans executing test cases, while automation testing uses scripts and tools to run tests automatically.
+
+Interviewer: When should we use automation testing?
+
+Candidate: Automation is useful for repetitive tasks like regression testing, but not always for exploratory testing.
+
+Interviewer: What tools have you used?
+
+Candidate: I have used Selenium WebDriver and PyTest for basic automation. I also used JIRA for bug tracking.
+
+Interviewer: Can you explain the bug lifecycle?
+
+Candidate: A bug is identified, logged, assigned, fixed, tested, and then closed.
+
+Interviewer: What is a test case?
+
+Candidate: A test case is a set of steps to validate a particular functionality.
+
+Interviewer: Have you written test cases?
+
+Candidate: Yes, I have written test cases for login and user registration modules.
+
+Interviewer: How do you prioritize test cases?
+
+Candidate: Based on critical functionality and user impact.
+
+Interviewer: What is regression testing?
+
+Candidate: It ensures that new changes do not break existing functionality.
+
+Interviewer: Have you done API testing?
+
+Candidate: I have basic knowledge of API testing but limited hands-on experience. I have used Postman a few times.
+
+Interviewer: What challenges did you face?
+
+Candidate: Handling frequent UI changes which caused automation scripts to fail.
+
+Interviewer: How did you handle it?
+
+Candidate: I updated locators and tried to make scripts more dynamic.
+
+Interviewer: Have you worked in Agile environment?
+
+Candidate: Yes, I participated in daily stand-ups and sprint testing activities.
+
+Interviewer: Any experience with performance testing?
+
+Candidate: No, I haven’t worked on performance testing yet.
+
+Interviewer: Do you have any questions?
+
+Candidate: Yes, what testing tools does your team use?
+
+Interviewer: We use Selenium, Cypress, and some performance testing tools.
+
+Candidate: I would be interested in learning those tools.
+
+---
+
+Observations:
+- Good understanding of testing fundamentals and manual testing
+- Basic exposure to automation (Selenium, PyTest)
+- Familiar with bug tracking and Agile workflow
+- Limited experience in API and performance testing
+- Needs stronger hands-on experience in automation frameworks and advanced testing concepts

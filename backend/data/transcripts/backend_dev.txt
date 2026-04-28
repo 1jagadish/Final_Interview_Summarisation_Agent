@@ -1,0 +1,142 @@
+Candidate Name: Arjun Sharma
+Role: Backend Developer
+Date: 2024-05-21
+
+
+
+
+
+
+
+Role: Backend Developer (Python / FastAPI)
+
+Interviewer: Good morning. Can you briefly introduce yourself?
+
+Candidate: Good morning. My name is Rahul. I am a recent graduate in Computer Science. I have strong experience in Python, backend development using FastAPI, and some exposure to cloud services like AWS. I’ve worked on projects like a real-time chat application and an interview summarization agent using LLMs.
+
+Interviewer: Great. Let’s start with Python fundamentals. What are decorators?
+
+Candidate: Decorators in Python are functions that modify the behavior of another function without changing its code. They are often used for logging, authentication, or caching. They use the @ syntax.
+
+Interviewer: Can you give an example?
+
+Candidate: Yes. For example, we can create a decorator to log function calls. It wraps the function and prints logs before and after execution.
+
+Interviewer: Good. What is the difference between multithreading and multiprocessing?
+
+Candidate: Multithreading uses multiple threads within a single process and shares memory, while multiprocessing creates separate processes with separate memory. Python has a GIL, so multiprocessing is better for CPU-bound tasks, while multithreading is useful for I/O-bound tasks.
+
+Interviewer: What is GIL?
+
+Candidate: GIL stands for Global Interpreter Lock. It allows only one thread to execute Python bytecode at a time, which limits true parallelism in CPU-bound tasks.
+
+Interviewer: Moving to FastAPI. Why would you choose FastAPI over Flask?
+
+Candidate: FastAPI is faster because it is built on ASGI and supports asynchronous programming. It also provides automatic validation using Pydantic and generates API documentation automatically using Swagger.
+
+Interviewer: How do you handle request validation in FastAPI?
+
+Candidate: We use Pydantic models to define request schemas. FastAPI automatically validates incoming requests against these schemas.
+
+Interviewer: What is dependency injection in FastAPI?
+
+Candidate: Dependency injection allows us to reuse logic like database connections or authentication across endpoints using Depends().
+
+Interviewer: Let’s talk about databases. What databases have you used?
+
+Candidate: I have used MySQL and MongoDB. For relational data, I prefer MySQL, and for flexible schema, I use MongoDB.
+
+Interviewer: What is normalization?
+
+Candidate: Normalization is the process of organizing data to reduce redundancy and improve data integrity by dividing tables into smaller ones and defining relationships.
+
+Interviewer: What is indexing?
+
+Candidate: Indexing improves query performance by allowing faster data retrieval, but it adds overhead for write operations.
+
+Interviewer: Have you worked with ORMs?
+
+Candidate: Yes, I have used SQLAlchemy. It helps in mapping Python objects to database tables and simplifies CRUD operations.
+
+Interviewer: How do you handle authentication in APIs?
+
+Candidate: I use JWT-based authentication. The user logs in, gets a token, and sends it in headers for protected routes.
+
+Interviewer: What is REST?
+
+Candidate: REST is an architectural style for designing APIs using HTTP methods like GET, POST, PUT, DELETE.
+
+Interviewer: What are status codes?
+
+Candidate: Status codes indicate the result of an HTTP request. For example, 200 is success, 404 is not found, and 500 is server error.
+
+Interviewer: Let’s discuss system design. How would you design a URL shortener?
+
+Candidate: I would create an API that takes a long URL and generates a unique short code. Store mappings in a database. Use hashing or base62 encoding. Add caching for frequent access.
+
+Interviewer: How would you scale it?
+
+Candidate: Use load balancers, caching with Redis, database sharding, and CDN for faster access.
+
+Interviewer: What is caching?
+
+Candidate: Caching stores frequently accessed data in memory to reduce database load and improve performance.
+
+Interviewer: Have you used Redis?
+
+Candidate: Yes, I have used Redis for caching and session storage.
+
+Interviewer: What are microservices?
+
+Candidate: Microservices architecture splits an application into smaller independent services that communicate via APIs.
+
+Interviewer: What are advantages?
+
+Candidate: Better scalability, independent deployment, and fault isolation.
+
+Interviewer: Any disadvantages?
+
+Candidate: Increased complexity, network latency, and deployment overhead.
+
+Interviewer: Tell me about a challenging project.
+
+Candidate: I worked on an interview summarization agent where I integrated LLM APIs. The challenge was handling API failures and structuring outputs. I implemented retries and structured prompts.
+
+Interviewer: How do you handle errors?
+
+Candidate: I use try-except blocks, logging, and proper HTTP responses.
+
+Interviewer: What is logging?
+
+Candidate: Logging is recording events for debugging and monitoring.
+
+Interviewer: How do you deploy applications?
+
+Candidate: I have used Docker and deployed apps on AWS EC2. I also used Nginx as a reverse proxy.
+
+Interviewer: What is Docker?
+
+Candidate: Docker is a containerization tool that packages applications with dependencies.
+
+Interviewer: What is CI/CD?
+
+Candidate: Continuous Integration and Continuous Deployment automate building, testing, and deployment.
+
+Interviewer: Do you have any questions?
+
+Candidate: Yes, what technologies does your team mainly use?
+
+Interviewer: We use Python, FastAPI, and Kubernetes.
+
+Candidate: That aligns well with my interests. Thank you.
+
+Interviewer: Thank you. That’s all.
+
+---
+
+Observations:
+- Candidate has strong fundamentals in Python and backend
+- Good understanding of FastAPI and APIs
+- Basic knowledge of system design
+- Some gaps in deep system design and real-world scaling
+- Good communication skills

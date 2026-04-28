@@ -1,0 +1,19 @@
+Candidate Name: Rohit Singh
+Role: Android Developer
+Date: 2024-05-20
+
+Transcript:
+Interviewer: What is Android architecture?
+Candidate: MVC, MVP, MVVM patterns...
+
+Interviewer: What is activity lifecycle?
+Candidate: States like onCreate, onStart, onResume...
+
+Interviewer: What is Retrofit?
+Candidate: Library for API calls...
+
+Interviewer: Project?
+Candidate: Built a food delivery app...
+
+Interviewer: Challenges?
+Candidate: Managing API failures...
